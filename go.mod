@@ -1,3 +1,3 @@
-module github.com/icza/gog
+module github.com/avila-r/g
 
 go 1.21
