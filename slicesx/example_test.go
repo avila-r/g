@@ -3,7 +3,7 @@ package slicesx_test
 import (
 	"fmt"
 
-	. "github.com/icza/gog/slicesx"
+	. "github.com/avila-r/g/slicesx"
 )
 
 type Person struct {
