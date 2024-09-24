@@ -1,3 +1,6 @@
+> [!NOTE]
+> Be aware that this package was made by [icza](https://github.com/icza)
+
 # gog
 
 ![Build Status](https://github.com/icza/gog/actions/workflows/go.yml/badge.svg)
